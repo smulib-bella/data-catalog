@@ -5,7 +5,7 @@
     <ARTIST>Bob Dylan</ARTIST>
     <COUNTRY>USA</COUNTRY>
     <COMPANY>Columbia</COMPANY>
-    <PRICE>9.90</PRICE>
+    <PRICE>8.90</PRICE>
     <YEAR>1985</YEAR>
   </CD>
   <CD>
@@ -13,7 +13,7 @@
     <ARTIST>Bonnie Tyler</ARTIST>
     <COUNTRY>UK</COUNTRY>
     <COMPANY>CBS Records</COMPANY>
-    <PRICE>9.90</PRICE>
+    <PRICE>8.90</PRICE>
     <YEAR>1988</YEAR>
   </CD>
   <CD>
@@ -21,7 +21,7 @@
     <ARTIST>Dolly Parton</ARTIST>
     <COUNTRY>USA</COUNTRY>
     <COMPANY>RCA</COMPANY>
-    <PRICE>9.90</PRICE>
+    <PRICE>8.90</PRICE>
     <YEAR>1982</YEAR>
   </CD>
   <CD>
